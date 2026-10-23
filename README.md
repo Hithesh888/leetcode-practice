@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/Hithesh888/leetcode-practice/tree/main/0136-single-number/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Hithesh888/leetcode-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,4 +29,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Hithesh888/leetcode-practice/tree/main/0136-single-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Hithesh888/leetcode-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
