@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/Hithesh888/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Hithesh888/leetcode-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Hithesh888/leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +34,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Hithesh888/leetcode-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Hithesh888/leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
