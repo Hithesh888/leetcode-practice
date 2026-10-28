@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Hithesh888/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0389-find-the-difference](https://github.com/Hithesh888/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Hithesh888/leetcode-practice/tree/main/0067-add-binary/) | Easy |
+| [0389-find-the-difference](https://github.com/Hithesh888/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Hithesh888/leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -39,6 +41,7 @@
 | [0136-single-number](https://github.com/Hithesh888/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Hithesh888/leetcode-practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Hithesh888/leetcode-practice/tree/main/0231-power-of-two/) | Easy |
+| [0389-find-the-difference](https://github.com/Hithesh888/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Hithesh888/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0389-find-the-difference](https://github.com/Hithesh888/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
