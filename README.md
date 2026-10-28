@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Hithesh888/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Hithesh888/leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Hithesh888/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Hithesh888/leetcode-practice/tree/main/0067-add-binary/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Hithesh888/leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Hithesh888/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Hithesh888/leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
@@ -63,4 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Hithesh888/leetcode-practice/tree/main/0231-power-of-two/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hithesh888/leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hithesh888/leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
