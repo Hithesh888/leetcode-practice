@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/Hithesh888/leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Hithesh888/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0704-binary-search](https://github.com/Hithesh888/leetcode-practice/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Hithesh888/leetcode-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Hithesh888/leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
@@ -95,4 +96,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0704-binary-search](https://github.com/Hithesh888/leetcode-practice/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
