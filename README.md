@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0001-two-sum/) | Easy |
+| [0031-next-permutation](https://github.com/Hithesh888/leetcode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Hithesh888/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Hithesh888/leetcode-practice/tree/main/0169-majority-element/) | Easy |
@@ -87,5 +88,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Hithesh888/leetcode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
