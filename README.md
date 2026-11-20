@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/Hithesh888/leetcode-practice/tree/main/0031-next-permutation/) | Medium |
+| [0053-maximum-subarray](https://github.com/Hithesh888/leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Hithesh888/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Hithesh888/leetcode-practice/tree/main/0169-majority-element/) | Easy |
@@ -68,6 +69,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Hithesh888/leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Hithesh888/leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Hithesh888/leetcode-practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Recursion
@@ -97,4 +99,8 @@
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Hithesh888/leetcode-practice/tree/main/0704-binary-search/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Hithesh888/leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
