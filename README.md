@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0001-two-sum/) | Easy |
+| [0018-4sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Hithesh888/leetcode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Hithesh888/leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Hithesh888/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
@@ -63,6 +64,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Hithesh888/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Hithesh888/leetcode-practice/tree/main/0169-majority-element/) | Easy |
@@ -94,6 +96,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Hithesh888/leetcode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Hithesh888/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
