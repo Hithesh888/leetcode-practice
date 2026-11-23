@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Hithesh888/leetcode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Hithesh888/leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Hithesh888/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Hithesh888/leetcode-practice/tree/main/0136-single-number/) | Easy |
@@ -62,6 +63,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Hithesh888/leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -108,6 +110,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Hithesh888/leetcode-practice/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
