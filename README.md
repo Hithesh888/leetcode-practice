@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/Hithesh888/leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Hithesh888/leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Hithesh888/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Hithesh888/leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hithesh888/leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Hithesh888/leetcode-practice/tree/main/0704-binary-search/) | Easy |
@@ -60,6 +61,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Hithesh888/leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Hithesh888/leetcode-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
