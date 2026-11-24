@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Hithesh888/leetcode-practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Hithesh888/leetcode-practice/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Hithesh888/leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Hithesh888/leetcode-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hithesh888/leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -48,6 +49,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Hithesh888/leetcode-practice/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/Hithesh888/leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
 ## Bit Manipulation
@@ -66,6 +68,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hithesh888/leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Hithesh888/leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
