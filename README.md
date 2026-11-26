@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/Hithesh888/leetcode-practice/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Hithesh888/leetcode-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Hithesh888/leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Hithesh888/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/Hithesh888/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hithesh888/leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Hithesh888/leetcode-practice/tree/main/0389-find-the-difference/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Hithesh888/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +41,7 @@
 | [0412-fizz-buzz](https://github.com/Hithesh888/leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/Hithesh888/leetcode-practice/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Hithesh888/leetcode-practice/tree/main/2469-convert-the-temperature/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Hithesh888/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +75,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Hithesh888/leetcode-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hithesh888/leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Hithesh888/leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Hithesh888/leetcode-practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
